@@ -1,0 +1,1 @@
+Create in 2020, this health platform is a software solution for hospitals, clinics, pharmacies, and health organizations. It aids medical professionals in managing patient health, sharing medical information, preventing medicine shortages, and using AI to predict patient health and disease spread. Let's improve it together
